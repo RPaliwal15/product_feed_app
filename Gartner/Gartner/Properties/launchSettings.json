@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Gartner": {
+      "commandName": "Project",
+      "commandLineArgs": "import softwareadvice path"
+    }
+  }
+}
