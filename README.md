@@ -18,8 +18,4 @@ Installation steps :
 4. Argument - import softwareadvice path-of-file     (replace softwareadvice with capterra)
 
 
-Future Improvements
-1. Dependency injection can be use.
-2. Use Keyvalut in place of appsetting.json for connection string.
-3. DB connector code improvement. 
-4. More test cases 
+
